@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'demo1.dart';
-
+// import 'demo1.dart';
+import 'simple_ui.dart';
 void main(){
   runApp(MyApp());
 }
